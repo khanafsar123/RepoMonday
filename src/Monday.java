@@ -3,5 +3,6 @@ public class Monday {
         String day="Monday";
 
         System.out.println(day);
+        System.out.println("new daedy");
     }
 }
