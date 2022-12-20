@@ -1,5 +1,7 @@
 public class Monday {
     public static void main(String[] args) {
-        System.out.println("Today is monday");
+        String day="Monday";
+
+        System.out.println(day);
     }
 }
